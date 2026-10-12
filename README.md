@@ -1,97 +1,77 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1517,100:102B2B&height=8&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101820,45:123B3A,100:55CDB8&height=200&section=header&text=ISITA%20MAZUMDER&fontSize=42&fontColor=F2FFFC&fontAlignY=36&animation=fadeIn&desc=Computer%20Science%20%26%20Engineering%20%7C%20RNSIT&descAlignY=58&descSize=16" width="100%" alt="Animated teal header" />
 
-ISITA MAZUMDER
-Computer Science & Engineering · RNSIT, Bengaluru
-I build practical software, explore AI-powered ideas, and learn by shipping projects.
+<a href="https://github.com/isitamazumder05">
+  <img src="https://img.shields.io/badge/GitHub-isitamazumder05-101820?style=for-the-badge&logo=github&logoColor=7DDACB" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/isita-mazumder13">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-101820?style=for-the-badge&logo=linkedin&logoColor=7DDACB" alt="LinkedIn" />
+</a>
 
+<br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=7DDACB&center=true&vCenter=true&width=750&height=50&lines=Turning+ideas+into+working+prototypes.;Learning+DSA+with+C%2B%2B.;Building+with+React+%26+TypeScript.;Exploring+practical+AI+applications." alt="Animated typing text" />
 
-TURNING IDEAS INTO WORKING PROTOTYPES
 </div>
 
-01 / About
-I'm a Computer Science & Engineering undergraduate at RNS Institute of Technology, Bengaluru. I enjoy building practical prototypes, exploring how AI can be applied to real problems, and strengthening my software development fundamentals.
-ACADEMICS	CURRENT FOCUS
-B.E. CSE · 2024–2028	DSA with C++
-CGPA: 9.74 / 10	React · TypeScript · Web development
-Samsung Innovation Campus · Currently undergoing AI training	AI/ML fundamentals · Cloud deployment
+---
 
-
-02 / Selected work
-Three projects. Three different problem spaces.
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="58%" valign="top">
 
-01 — CHHAON
-Heat-aware planning for outdoor work
-A location-based planning companion combining weather forecasts, UV information, worksite context, and practical safety recommendations.
-React TypeScript Leaflet Open-Meteo
-↗ Live demo · Source code
+### 01 / A LITTLE ABOUT ME
+
+I'm a **Computer Science & Engineering undergraduate at RNSIT, Bengaluru**, interested in building practical software, exploring AI applications, and learning through hands-on projects.
+
+- 🎓 B.E. CSE · 2024–2028
+- 📈 CGPA: **9.74 / 10**
+- 🧠 Currently strengthening DSA with C++
+- 💻 Exploring React, TypeScript, and web development
+- 🤖 Currently undergoing AI training at Samsung Innovation Campus
+
 </td>
-<td width="50%" valign="top">
+<td width="42%" valign="top">
 
-02 — AgentFence
-Policy-based security for AI agents
-Evaluates proposed agent actions and returns ALLOW, BLOCK, or APPROVAL decisions using predefined policies and security scenarios. Includes a demo workflow and audit logging.
-Python FastAPI React AWS-oriented
-↗ Explore project
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+### CURRENTLY EXPLORING
 
-03 — RecoverAI
-AI-assisted payment recovery simulation
-A prototype for payment-recovery decisions using deterministic rules and optional LLM-generated explanations. Includes retry limits, manual-review paths, and audit events.
-Python Streamlit LLM-assisted explanations
-Simulation only: no live payment processing or Razorpay integration.
-↗ Explore project
+<img src="https://skillicons.dev/icons?i=cpp,react,ts,python,aws&theme=dark" alt="C++, React, TypeScript, Python and AWS" />
+
+**Learning focus**
+
+`Data Structures & Algorithms`
+
+`Web Development`
+
+`AI / ML Fundamentals`
+
+`Cloud Deployment`
+
 </td>
 </tr>
 </table>
 
-03 / Toolkit
-<div align="center">
+## 02 / SELECTED WORK
 
-LANGUAGES
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css&theme=dark" alt="C, C++, Python, JavaScript, HTML and CSS" />
+<sub>Three projects · Three different problem spaces</sub>
 
-DEVELOPMENT
-<img src="https://skillicons.dev/icons?i=react,ts,flask,fastapi,sqlite,git,github,vscode&theme=dark" alt="React, TypeScript, Flask, FastAPI, SQLite, Git, GitHub and VS Code" />
-
-</div>
-
-DESIGN · BUILDING · RESEARCH	DEPLOYMENT
-Figma · Lovable · Replit · Canva · Gamma · Notion · Litmaps	AWS Amplify · Vercel · Render
-
-
-04 / Milestones
 <table>
 <tr>
-<td width="33%" valign="top">
-
-PUBLISHED PATENT APPLICATION
-Intelligent Multi-Level Accident Detection and Autonomous Ambulance Dispatch System with Dynamic Routing and Traffic Signal Control
-Application no. 202641005998 A
-</td>
-<td width="33%" valign="top">
-
-ADOBE UNIVERSITY HACKATHON 2026
-Shortlisted for Round 2.
-</td>
-<td width="33%" valign="top">
-
-DATA ANNOTATION INTERN
-Bhatiyani Astute Intelligence Pvt. Ltd. · Apr–Jul 2025
-Image/video annotation, dataset documentation, and model-training support.
-</td>
-</tr>
-</table>
+<td width="50%" valign="top">
 
 <div align="center">
 
-Learning by building. Improving with every iteration.
+<a href="https://github.com/isitamazumder05/CHHAON">
+<img src="https://img.shields.io/badge/01-CHHAON-123B3A?style=for-the-badge&labelColor=101820" alt="CHHAON" />
+</a>
+
+<img src="https://skillicons.dev/icons?i=react,ts&theme=dark" alt="React and TypeScript" />
+
 </div>
+
+### 🌤️ CHHAON
+
+**Heat-aware planning for outdoor work**
+
+A location-based planning companion that combines
