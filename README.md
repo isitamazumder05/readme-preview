@@ -1,69 +1,43 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1418&height=8&section=header" width="100%" alt="" />
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1517,100:102B2B&height=8&section=header" width="100%" alt="" />
 
 ISITA MAZUMDER
 Computer Science & Engineering · RNSIT, Bengaluru
 I build practical software, explore AI-powered ideas, and learn by shipping projects.
 
-<a href="https://github.com/isitamazumder05">
-  <img src="https://img.shields.io/badge/GitHub-0B1418?style=for-the-badge&logo=github&logoColor=8CE0D0" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/isita-mazumder13">
-  <img src="https://img.shields.io/badge/LinkedIn-0B1418?style=for-the-badge&logo=linkedin&logoColor=8CE0D0" alt="LinkedIn"/>
-</a>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3200&pause=900&color=8CE0D0&center=true&vCenter=true&width=620&lines=Turning+ideas+into+working+prototypes.;Learning+DSA%2C+web+development+%26+AI%2FML.;Building+with+curiosity%2C+improving+with+feedback." alt="Rotating introduction"/>
-
+TURNING IDEAS INTO WORKING PROTOTYPES
 </div>
 
-<table>
-<tr>
-<td width="58%" valign="top">
+01 / About
+I'm a Computer Science & Engineering undergraduate at RNS Institute of Technology, Bengaluru. I enjoy building practical prototypes, exploring how AI can be applied to real problems, and strengthening my software development fundamentals.
+ACADEMICS	CURRENT FOCUS
+B.E. CSE · 2024–2028	DSA with C++
+CGPA: 9.74 / 10	React · TypeScript · Web development
+Samsung Innovation Campus · Currently undergoing AI training	AI/ML fundamentals · Cloud deployment
 
-01 / A little about me
-I'm a Computer Science & Engineering undergraduate who enjoys solving practical problems through software and learning by building.
-- Education — B.E. CSE, RNSIT
-- CGPA — 9.74 / 10
-- Current focus — DSA with C++, web development, AI/ML
-- Training — Samsung Innovation Campus AI training
-</td>
-<td width="42%" valign="top">
-
-CURRENTLY EXPLORING
-C++ / DSA
-React / TypeScript
-AI-powered applications
-Cloud deployment
-</td>
-</tr>
-</table>
 
 02 / Selected work
 Three projects. Three different problem spaces.
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
 01 — CHHAON
 Heat-aware planning for outdoor work
-A location-based planning companion combining weather forecasts, UV information, worksite context and practical safety recommendations.
-Built with
-React TypeScript Leaflet
-<a href="https://main.d1z8gzjqk9pupf.amplifyapp.com"><strong>↗ OPEN LIVE DEMO</strong></a>
-<a href="https://github.com/isitamazumder05/CHHAON">View source →</a>
+A location-based planning companion combining weather forecasts, UV information, worksite context, and practical safety recommendations.
+React TypeScript Leaflet Open-Meteo
+↗ Live demo · Source code
 </td>
 <td width="50%" valign="top">
 
 02 — AgentFence
 Policy-based security for AI agents
-Evaluates proposed agent actions and produces ALLOW, BLOCK or APPROVAL decisions using predefined policies and security scenarios.
-Built with
-Python FastAPI React
-<a href="https://github.com/isitamazumder05/AgentFence"><strong>↗ EXPLORE PROJECT</strong></a>
+Evaluates proposed agent actions and returns ALLOW, BLOCK, or APPROVAL decisions using predefined policies and security scenarios. Includes a demo workflow and audit logging.
+Python FastAPI React AWS-oriented
+↗ Explore project
 </td>
 </tr>
 <tr>
@@ -71,75 +45,53 @@ Python FastAPI React
 
 03 — RecoverAI
 AI-assisted payment recovery simulation
-A prototype for payment-recovery decisions using deterministic rules and optional LLM-generated explanations. Includes retry limits, manual-review paths and audit events.
-Built with Python Streamlit · Simulation only; no live payment processing or Razorpay integration.
-<a href="https://github.com/isitamazumder05/RecoverAI"><strong>↗ EXPLORE PROJECT</strong></a>
+A prototype for payment-recovery decisions using deterministic rules and optional LLM-generated explanations. Includes retry limits, manual-review paths, and audit events.
+Python Streamlit LLM-assisted explanations
+Simulation only: no live payment processing or Razorpay integration.
+↗ Explore project
 </td>
 </tr>
 </table>
 
 03 / Toolkit
-<details>
-<summary><strong>Languages & development</strong></summary>
+<div align="center">
 
+LANGUAGES
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css&theme=dark" alt="C, C++, Python, JavaScript, HTML and CSS" />
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,ts,flask,fastapi,streamlit,sqlite" alt="Programming and development technologies"/>
+DEVELOPMENT
+<img src="https://skillicons.dev/icons?i=react,ts,flask,fastapi,sqlite,git,github,vscode&theme=dark" alt="React, TypeScript, Flask, FastAPI, SQLite, Git, GitHub and VS Code" />
 
-</details>
+</div>
 
-<details>
-<summary><strong>Design, productivity & research</strong></summary>
+DESIGN · BUILDING · RESEARCH	DEPLOYMENT
+Figma · Lovable · Replit · Canva · Gamma · Notion · Litmaps	AWS Amplify · Vercel · Render
 
-
-<img src="https://img.shields.io/badge/Figma-20252A?style=flat-square&logo=figma&logoColor=8CE0D0" alt="Figma"/>
-<img src="https://img.shields.io/badge/Notion-20252A?style=flat-square&logo=notion&logoColor=8CE0D0" alt="Notion"/>
-<img src="https://img.shields.io/badge/Lovable-20252A?style=flat-square" alt="Lovable"/>
-<img src="https://img.shields.io/badge/Replit-20252A?style=flat-square&logo=replit&logoColor=8CE0D0" alt="Replit"/>
-<img src="https://img.shields.io/badge/Canva-20252A?style=flat-square&logo=canva&logoColor=8CE0D0" alt="Canva"/>
-<img src="https://img.shields.io/badge/Gamma-20252A?style=flat-square" alt="Gamma"/>
-<img src="https://img.shields.io/badge/Litmaps-Research-20252A?style=flat-square" alt="Litmaps"/>
-
-</details>
-
-<details>
-<summary><strong>Developer tools & deployment</strong></summary>
-
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,aws,vercel" alt="Git, GitHub, VS Code, AWS and Vercel"/>
-
-<img src="https://img.shields.io/badge/Render-20252A?style=flat-square&logo=render&logoColor=8CE0D0" alt="Render"/>
-<img src="https://img.shields.io/badge/AWS%20Amplify-20252A?style=flat-square&logo=awsamplify&logoColor=8CE0D0" alt="AWS Amplify"/>
-
-</details>
 
 04 / Milestones
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-PATENT APPLICATION · PUBLISHED
-Intelligent Multi-Level Accident Detection and Autonomous Ambulance Dispatch System with Dynamic Routing and Traffic Signal Control.
-202641005998 A
-Published patent application; not represented as a granted patent.
+PUBLISHED PATENT APPLICATION
+Intelligent Multi-Level Accident Detection and Autonomous Ambulance Dispatch System with Dynamic Routing and Traffic Signal Control
+Application no. 202641005998 A
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ADOBE UNIVERSITY HACKATHON 2026
 Shortlisted for Round 2.
 </td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+<td width="33%" valign="top">
 
-EXPERIENCE · DATA ANNOTATION INTERN
-Bhatiyani Astute Intelligence Pvt. Ltd. · April–July 2025
-Image and video annotation, object detection/classification annotation, dataset documentation, and support for model-training workflows.
+DATA ANNOTATION INTERN
+Bhatiyani Astute Intelligence Pvt. Ltd. · Apr–Jul 2025
+Image/video annotation, dataset documentation, and model-training support.
 </td>
 </tr>
 </table>
 
 <div align="center">
 
-Learning in public. Building with purpose. Improving one iteration at a time.
-<sub>Thanks for stopping by.</sub>
+Learning by building. Improving with every iteration.
 </div>
