@@ -1,13 +1,14 @@
 <!-- ═══════════════════════════════════════════════════════════════
      ISITA MAZUMDER · GitHub Profile README
-     Concept: "Signal Room" — editorial bento + terminal aesthetics
+     Concept: "Signal Room" — editorial + animated capsule bands
      Palette: #0B0F14 · #22D3EE · #00D9C0
+     Zero setup — all animations hosted externally.
      ═══════════════════════════════════════════════════════════════ -->
 
 <!-- ─────────── 00 · THE COVER ─────────── -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,35:08222B,70:0E4A55,100:22D3EE&height=260&section=header&text=ISITA%20MAZUMDER&fontSize=58&fontColor=E6EDF3&fontAlignY=42&desc=B.E.%20CSE%20%C2%B7%20RNSIT%20Bengaluru%20%C2%B7%20Class%20of%202028&descAlignY=64&descSize=15&descColor=9BE8F5&animation=twinkling" width="100%" alt="Isita Mazumder — cover" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,35:08222B,70:0E4A55,100:22D3EE&height=240&section=header&text=ISITA%20MAZUMDER&fontSize=58&fontColor=E6EDF3&fontAlignY=42&desc=B.E.%20CSE%20%C2%B7%20RNSIT%20Bengaluru%20%C2%B7%20Class%20of%202028&descAlignY=66&descSize=15&descColor=9BE8F5&animation=twinkling" width="100%" alt="Isita Mazumder — cover" />
 </p>
 
 <p align="center">
@@ -32,13 +33,17 @@
   <a href="https://www.linkedin.com/in/isita-mazumder13"><img src="https://img.shields.io/badge/LinkedIn-isita--mazumder13-0B0F14?style=for-the-badge&logo=linkedin&logoColor=22D3EE&labelColor=0B0F14" alt="LinkedIn" /></a>
 </p>
 
-<!-- ─────────── MARQUEE 01 ─────────── -->
+<!-- ─────────── ANIMATED WAVE DIVIDER ─────────── -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F14,100:0B0F14&height=32&width=100%25&text=%E2%96%B8%20DSA%20%C2%B7%20C%2B%2B%20%C2%B7%20REACT%20%C2%B7%20TYPESCRIPT%20%C2%B7%20AI%2FML%20%C2%B7%20AWS%20AMPLIFY%20%C2%B7%20FASTAPI%20%C2%B7%20STREAMLIT%20%E2%97%82&fontSize=12&fontColor=22D3EE&fontAlignY=52&animation=fadeIn" width="100%" alt="stack marquee" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,50:0E4A55,100:22D3EE&height=60&width=100%25&section=header&animation=twinkling" width="100%" alt="" />
 </p>
 
 <!-- ─────────── 01 · THE OPERATOR ─────────── -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=egg&color=0:0B0F14,50:0E2A33,100:22D3EE&height=90&width=100%25&section=header&animation=fadeIn" width="100%" alt="" />
+</p>
 
 <h3 align="center"><code>01 &nbsp;·&nbsp; THE OPERATOR</code></h3>
 
@@ -51,13 +56,17 @@
 
 <p align="center"><sub><code>dsa · C++</code> &nbsp;|&nbsp; <code>web · React · TypeScript</code> &nbsp;|&nbsp; <code>ai/ml · fundamentals</code> &nbsp;|&nbsp; <code>cloud · Amplify · Vercel</code></sub></p>
 
-<!-- ─────────── MARQUEE 02 ─────────── -->
+<!-- ─────────── ANIMATED WAVE DIVIDER ─────────── -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F14,100:0B0F14&height=32&width=100%25&text=%E2%96%B8%20FEATURED%20WORK%20%C2%B7%20THREE%20PROJECTS%20%C2%B7%20SHIPPED%20AND%20DOCUMENTED%20%E2%97%82&fontSize=12&fontColor=00D9C0&fontAlignY=52&animation=fadeIn" width="100%" alt="featured work marquee" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,50:0E4A55,100:22D3EE&height=60&width=100%25&section=header&animation=twinkling" width="100%" alt="" />
 </p>
 
 <!-- ─────────── 02 · FEATURED WORK ─────────── -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=egg&color=0:0B0F14,50:0E2A33,100:22D3EE&height=90&width=100%25&section=header&animation=fadeIn" width="100%" alt="" />
+</p>
 
 <h3 align="center"><code>02 &nbsp;·&nbsp; FEATURED WORK</code></h3>
 
@@ -105,13 +114,17 @@ Deterministic rules + optional LLM explanations. Synthetic transactions, retry c
   <a href="https://github.com/isitamazumder05/RecoverAI"><img src="https://img.shields.io/badge/Repo-RecoverAI-0B0F14?style=flat-square&logo=github&logoColor=22D3EE&labelColor=0B0F14" alt="RecoverAI repository" /></a>
 </p>
 
-<!-- ─────────── MARQUEE 03 ─────────── -->
+<!-- ─────────── ANIMATED WAVE DIVIDER ─────────── -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F14,100:0B0F14&height=32&width=100%25&text=%E2%96%B8%20TOOLKIT%20%C2%B7%20WORKING%20KNOWLEDGE%20%C2%B7%20NOT%20EXPERT-LEVEL%20IN%20EVERYTHING%20%E2%97%82&fontSize=12&fontColor=22D3EE&fontAlignY=52&animation=fadeIn" width="100%" alt="toolkit marquee" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,50:0E4A55,100:22D3EE&height=60&width=100%25&section=header&animation=twinkling" width="100%" alt="" />
 </p>
 
 <!-- ─────────── 03 · TOOLKIT ─────────── -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=egg&color=0:0B0F14,50:0E2A33,100:22D3EE&height=90&width=100%25&section=header&animation=fadeIn" width="100%" alt="" />
+</p>
 
 <h3 align="center"><code>03 &nbsp;·&nbsp; TOOLKIT</code></h3>
 
@@ -121,13 +134,17 @@ Deterministic rules + optional LLM explanations. Synthetic transactions, retry c
 
 <p align="center"><sub>Also used: <code>Streamlit</code> · <code>SQLite</code> · <code>Render</code> · <code>Replit</code> · <code>Lovable</code> · <code>Canva</code> · <code>Gamma</code> · <code>Litmaps</code></sub></p>
 
-<!-- ─────────── MARQUEE 04 ─────────── -->
+<!-- ─────────── ANIMATED WAVE DIVIDER ─────────── -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F14,100:0B0F14&height=32&width=100%25&text=%E2%96%B8%20ACHIEVEMENTS%20%C2%B7%20EXPERIENCE%20%C2%B7%20RECEIPTS%20%E2%97%82&fontSize=12&fontColor=00D9C0&fontAlignY=52&animation=fadeIn" width="100%" alt="achievements marquee" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,50:0E4A55,100:22D3EE&height=60&width=100%25&section=header&animation=twinkling" width="100%" alt="" />
 </p>
 
 <!-- ─────────── 04 · ACHIEVEMENTS & EXPERIENCE ─────────── -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=egg&color=0:0B0F14,50:0E2A33,100:22D3EE&height=90&width=100%25&section=header&animation=fadeIn" width="100%" alt="" />
+</p>
 
 <h3 align="center"><code>04 &nbsp;·&nbsp; ACHIEVEMENTS &amp; EXPERIENCE</code></h3>
 
@@ -148,10 +165,20 @@ Application No. **202641005998 A**
 
 <!-- ─────────── 05 · EOF ─────────── -->
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=egg&color=0:0B0F14,50:0E2A33,100:22D3EE&height=90&width=100%25&section=header&animation=fadeIn" width="100%" alt="" />
+</p>
+
 <h3 align="center"><code>05 &nbsp;·&nbsp; EOF</code></h3>
 
 <p align="center">
   <sub><code>build small &nbsp;·&nbsp; ship honest &nbsp;·&nbsp; document what works &nbsp;·&nbsp; never claim what isn't deployed</code></sub>
+</p>
+
+<!-- ─────────── ANIMATED WAVE DIVIDER ─────────── -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,50:0E4A55,100:22D3EE&height=60&width=100%25&section=header&animation=twinkling" width="100%" alt="" />
 </p>
 
 <!-- ─────────── FOOTER ─────────── -->
